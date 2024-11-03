@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Alexandreper345/Alexandreper345/output/snake.svg" alt="Snake animation" />
-
-###
